@@ -39,4 +39,7 @@ install az-cli:  `curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash`
 ![image](https://user-images.githubusercontent.com/13832737/219466390-2dfbb095-e08e-4572-abbb-3bcb759ad6d8.png)
 
 Install kubectl locally using the az aks install-cli command: `az aks install-cli`
+
 Reference: https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-cli
+![image](https://user-images.githubusercontent.com/13832737/219466845-f887e693-00ea-4279-a221-118d0b4de0f6.png)
+
