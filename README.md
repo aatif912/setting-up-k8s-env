@@ -30,10 +30,18 @@ Setting up alias
 
 `alias k='kubectl'`
 
+`alias c='clear'`
+
+![image](https://user-images.githubusercontent.com/13832737/219470171-30dac50b-d7c2-41d3-a5b7-d43f8595d11e.png)
+
+
 verification: `k version`
 
 `![image](https://user-images.githubusercontent.com/13832737/219463880-08cd78e2-4289-479e-8b79-bc69979eb94b.png)
 ![image](https://user-images.githubusercontent.com/13832737/219464878-e0daa1a2-7f97-42b8-ae10-4eee557a2160.png)
+
+![Uploading image.png…]()
+
 
 install az-cli:  `curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash`
 ![image](https://user-images.githubusercontent.com/13832737/219466390-2dfbb095-e08e-4572-abbb-3bcb759ad6d8.png)
