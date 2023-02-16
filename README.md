@@ -23,3 +23,10 @@ https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
 
 ![image](https://user-images.githubusercontent.com/13832737/219462509-872c5e76-3669-4f35-9895-3ed8412aab0d.png)
 
+Setting up alias 
+
+`alias k='kubectl'`
+
+verification: `k version`
+
+`![image](https://user-images.githubusercontent.com/13832737/219463880-08cd78e2-4289-479e-8b79-bc69979eb94b.png)
