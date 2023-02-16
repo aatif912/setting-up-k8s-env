@@ -33,3 +33,5 @@ Setting up alias
 verification: `k version`
 
 `![image](https://user-images.githubusercontent.com/13832737/219463880-08cd78e2-4289-479e-8b79-bc69979eb94b.png)
+![image](https://user-images.githubusercontent.com/13832737/219464878-e0daa1a2-7f97-42b8-ae10-4eee557a2160.png)
+
