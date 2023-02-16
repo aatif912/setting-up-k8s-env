@@ -43,3 +43,6 @@ Install kubectl locally using the az aks install-cli command: `az aks install-cl
 Reference: https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-cli
 ![image](https://user-images.githubusercontent.com/13832737/219466845-f887e693-00ea-4279-a221-118d0b4de0f6.png)
 
+verification:
+
+![image](https://user-images.githubusercontent.com/13832737/219469704-4c44409c-3555-4c45-ba17-2500838d40ac.png)
