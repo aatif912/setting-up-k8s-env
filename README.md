@@ -1,6 +1,8 @@
-# setting-up-k8s-env
+# setting-up-k8s-env in local windows machine
 
-open bash terminal where repo is cloned. Repo link https://github.com/aatif912/k8s-voting-app
+step 0 - Enable WSL Reference - https://www.ssl.com/how-to/enable-linux-subsystem-install-ubuntu-windows-10/
+
+open bash terminal where repo is cloned. Repo link - https://github.com/aatif912/k8s-voting-app
 
 ![image](https://user-images.githubusercontent.com/13832737/219461184-2b780de9-4119-4e21-90de-af40ff97747e.png)
 
